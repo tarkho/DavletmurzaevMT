@@ -13,9 +13,7 @@
 
 ### 📁 Лабораторная работа №1 (lab-01)
 
-* **Отчет:** [README.md](Lab1/python-git-lab1/Отчёт.md)
-/
-README.md))
+* **Отчет:** [README.md](Lab1/python-git-lab1/README.md)
 
 ### 📁 Лабораторная работа №2 (lab-02)
 
